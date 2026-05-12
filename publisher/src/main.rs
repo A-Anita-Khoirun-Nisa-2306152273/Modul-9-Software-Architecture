@@ -6,7 +6,7 @@ pub struct UserCreatedEventMessage {
     pub user_id: String,
     pub user_name: String,
 }
-
+pub struct UserCreatedHandler;
 impl MessageHandler<UserCreatedEventMessage> for UserCreatedHandler {
     fn handle(&self, message: Box<UserCreatedEventMessage>) -> Result<(), HandleError> {
         println!("Message received on handler 1: {:?}", message);

@@ -1,0 +1,1 @@
+/mnt/c/Users/anita/Downloads/Modul\ 9\ advprog/Modul-9-Software-Architecture/publisher/target/debug/publisher: /mnt/c/Users/anita/Downloads/Modul\ 9\ advprog/Modul-9-Software-Architecture/publisher/src/main.rs
